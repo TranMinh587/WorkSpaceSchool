@@ -1,0 +1,4 @@
+shift fn end : Chọn một dòng
+shift end : chọn các chữ cái liên tiếp trong một dòng
+shift ctrl end : Chọn các từ liên tiếp trong một dòng
+shift alt down : chọn các dòng liên tiếp
