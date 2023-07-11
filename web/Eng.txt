@@ -1,8 +1,8 @@
-improve Cải thiện 
-appearance Ngoại hình
-Emb Nhúng
-Contain Chứa
-Request Yêu cầu
+improve : Cải thiện 
+appearance : Ngoại hình
+Emb : Nhúng
+Contain : Chứa
+Request : Yêu cầu
 At that moment : Tại thời điểm đó
 Therefore : Do đó
 Actually : Thực ra
@@ -15,5 +15,5 @@ Valid : Hợp lệ
 Suggest : Khuyên(gợi ý)
 External : Bên ngoài
 Prevent : Ngăn chặn
-Might : Có thể
+Might : Có thể   
 Coppyright : Bản quyền
