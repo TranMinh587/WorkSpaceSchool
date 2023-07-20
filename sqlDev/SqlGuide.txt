@@ -1,0 +1,11 @@
+Status : Failure -Test failed: IO Error: The Network Adapter could not establish the connection
+FIX:
+->D:\app\oracle\product\19c\db_home1\network\admin 
+->listener.ora
+->Copy ip
+change localhost with ip 
+
+
+change date fomat
+alter session set nls_date_format = 'MM/DD/YYYY';
+SELECT SYSDATE FROM DUAL;

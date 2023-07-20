@@ -1,0 +1,19 @@
+improve : Cải thiện 
+appearance : Ngoại hình
+Emb : Nhúng
+Contain : Chứa
+Request : Yêu cầu
+At that moment : Tại thời điểm đó
+Therefore : Do đó
+Actually : Thực ra
+Spot : Điểm
+Make sure : Đảm bảo rằng
+Relation : Mối quan hệ
+Otherwise : Nếu không thì
+For : Vì
+Valid : Hợp lệ
+Suggest : Khuyên(gợi ý)
+External : Bên ngoài
+Prevent : Ngăn chặn
+Might : Có thể   
+Coppyright : Bản quyền

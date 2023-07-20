@@ -1,0 +1,21 @@
+shift + tab : lùi dòng một tab
+
+ALT + TAB 
+
+Ctrl + alt + tab
+
+ctrl + shift + tab
+
+
+Phím tắt Windows
+
+Ctrl + T: Mở tab mới trên trình duyệt
+Ctrl + Q: Tắt trình duyệt
+Ctrl + I: Viết chữ nghiêng trong Microsoft Word
+Windows + C: Bắt đầu nói chuyện với Cortana
+Ctrl + Alt + D và bất kỳ nút mũi tên nào : Xoay màn hình
+Ctrl + Tab: Di chuyển qua lại giữa các thẻ của trình duyệt theo thứ tự từ trái sang phải.
+Ctrl + Shift + Tab: Di chuyển qua lại giữa các thẻ của trình duyệt theo thứ tự từ phải sang trái.
+Ctrl + F4: Đóng cửa số hiện hành của trong chương trình đang thực thi.
+Ctrl + Alt + Tab: Sử dụng các phím mũi tên để chuyển đổi giữa các ứng dụng đang mở.
+Ctrl + Shift + Esc: Mở Task Manager
