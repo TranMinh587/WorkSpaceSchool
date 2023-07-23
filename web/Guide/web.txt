@@ -1,0 +1,3 @@
++ anh em theo sau liền kề
+~ anh em theo sau không cần liền kề
+> các phần tử con trực tiếp không hậu duệ
