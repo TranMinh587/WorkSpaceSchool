@@ -9,3 +9,4 @@ change localhost with ip
 change date fomat
 alter session set nls_date_format = 'MM/DD/YYYY';
 SELECT SYSDATE FROM DUAL;
+

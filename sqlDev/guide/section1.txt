@@ -1,0 +1,58 @@
+--Syntax
+
+SOME OF THE MOST IMPORTANT SQL COMMANDS
+
+SELECT - extracts data from a database
+UPDATE - updates data in a database
+DELETE - deletes data from a database
+INSERT INTO - inserts new data into a database
+CREATE DATABASE - creates a new database
+ALTER DATABASE - modifies a database
+CREATE TABLE - creates a new table
+ALTER TABLE - modifies a table
+DROP TABLE - deletes a table
+CREATE INDEX - creates an index (search key)
+DROP INDEX - deletes an index
+
+
+--Data type
+
+-String Data Types
+CHAR(size)	A FIXED length string (can contain letters, numbers, and special characters). 
+    The size parameter specifies the column length in characters - can be from 0 to 255. Default is 1
+VARCHAR(size)	A VARIABLE length string (can contain letters, numbers, and special characters). 
+    The size parameter specifies the maximum string length in characters - can be from 0 to 65535
+
+-Numeric Data Types
+
+BIT(size)	A bit-value type. 
+    The number of bits per value is specified in size. 
+    The size parameter can hold a value from 1 to 64. 
+    The default value for size is 1.
+BOOL	Zero is considered as false, nonzero values are considered as true.
+BOOLEAN	Equal to BOOL
+INT(size)	A medium integer. Signed range is from -2147483648 to 2147483647. 
+    Unsigned range is from 0 to 4294967295. 
+    The size parameter specifies the maximum display width (which is 255)
+INTEGER(size)	Equal to INT(size)
+FLOAT(size, d)	A floating point number. 
+    The total number of digits is specified in size. 
+    The number of digits after the decimal point is specified in the d parameter. 
+    This syntax is deprecated in MySQL 8.0.17, and it will be removed in future MySQL versions
+DOUBLE(size, d)	A normal-size floating point number. 
+    The total number of digits is specified in size. 
+    The number of digits after the decimal point is specified in the d parameter
+DECIMAL(size, d)	An exact fixed-point number. 
+    The total number of digits is specified in size. 
+    The number of digits after the decimal point is specified in the d parameter. 
+    The maximum number for size is 65. The maximum number for d is 30. 
+    The default value for size is 10. The default value for d is 0.
+
+-Date and Time Data Types
+
+DATE	A date. Format: YYYY-MM-DD. The supported range is from '1000-01-01' to '9999-12-31'
+DATETIME(fsp)	A date and time combination. 
+    Format: YYYY-MM-DD hh:mm:ss. The supported range is from '1000-01-01 00:00:00' to '9999-12-31 23:59:59'. 
+    Adding DEFAULT and ON UPDATE in the column definition to get automatic initialization and updating to the current date and time
+YEAR	A year in four-digit format. Values allowed in four-digit format: 1901 to 2155, and 0000.
+MySQL 8.0 does not support year in two-digit format.
