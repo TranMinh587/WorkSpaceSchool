@@ -1,10 +1,10 @@
--Kềm đa năng
--Switch chuột
--Bàn phím cơ
 -Tay cầm chơi game
--Mỏ hàn
--Máy đọc sách
 -Bộ vít mini
+-Mỏ hàn
+
+-Bàn phím cơ
+-Máy đọc sách
 -SSD
 -Hộp SSD
--Tai nghe
+-Kềm đa năng
+-Switch chuột

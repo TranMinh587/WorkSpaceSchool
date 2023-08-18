@@ -3,3 +3,34 @@ Cross-platfrom: Đa nền tảng
 Based: Dựa trên mạng 
 Each: Mỗi
 Propety 
+
+Adorable : Đáng yêu
+Beautiful : Xin đẹp
+Cute : Dễ thương
+Delightful : Thú vị
+Elegant : Thanh lịch
+Fashionable : Mặc đẹp
+Gorgeous : Lộng lẫy
+Hot : Nóng bỏng
+
+expression : Biểu thức
+Combination : Kết hợp
+Sensitive : PHân biệt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

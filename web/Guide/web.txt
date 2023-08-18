@@ -1,6 +1,11 @@
 + anh em theo sau liền kề
 ~ anh em theo sau không cần liền kề
 > các phần tử con trực tiếp không hậu duệ
+> các phần tử con trực tiếp không hậu duệ
+> các phần tử con trực tiếp không hậu duệ
+> các phần tử con trực tiếp không hậu duệ
+> các phần tử con trực tiếp không hậu duệ
+> các phần tử con trực tiếp không hậu duệ
 
 
 --Đặt biến
@@ -22,3 +27,46 @@ JS
 <<	left shift	5 << 1	0101 << 1	1010	 10
 >>	right shift	5 >> 1	0101 >> 1	0010	  2
 >>>	unsigned right shift	5 >>> 1	0101 >>> 1	0010	  2
+
+
+Event	Description
+onchange	An HTML element has been changed
+onclick	The user clicks an HTML element
+onmouseover	The user moves the mouse over an HTML element
+onmouseout	The user moves the mouse away from an HTML element
+onkeydown	The user pushes a keyboard key
+onload	The browser has finished loading the page
+
+
+STRING
+
+length : Độ dài chuỗi, let length = text.length;
+
+slice(start, end) : Trích xuất 1 phẩn của chuỗi và trả vể chuỗi mới, let part = text.slice(7, 13);
+substring(start, end) : let part = str.substring(7, 13);
+substr(start, length) : let part = str.substr(7, 6);
+
+String replace() : let newText = text.replace("Microsoft", "W3Schools");
+String replaceAll()
+String toUpperCase()
+String toLowerCase()
+String concat()
+String trim()
+String trimStart()
+String trimEnd()
+String padStart()
+String padEnd()
+String charAt()
+String charCodeAt()
+String split()
+
+\'	'	Single quote
+\"	"	Double quote
+\\	\	Backslash
+
+\b	Backspace
+\f	Form Feed
+\n	New Line
+\r	Carriage Return
+\t	Horizontal Tabulator
+\v	Vertical Tabulator
