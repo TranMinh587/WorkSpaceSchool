@@ -1,0 +1,128 @@
+
+# If : 
+if(Điều kiện 1):
+	câu lệnh khi đk1 đúng
+elif(Điều kiện 2):
+	câu lệnh khi đk2 đúng
+else:
+	Câu lệnh còn khi đk 1 và 2 đều sai.
+
+# If rút gọn :
+print('Yes') if True else print('No') 
+
+#Numpy array : 
+-> Là mảng nhưng thuận tiện xử lí các số.
+import numpy as np
+arr = np.array([1,3,4,5,6])
+
+np.random.rand() -> Tạo một array 1 hàng 1 cột một số thực ngẫu nhiên từ 0 đến 1. 
+
+np.random.rand(2,3) -> Tạo một ma trận 2 hàng 3 cột.
+
+np.arange(1,n,2) -> Tạo một dãy số cách đều 2 từ 1 đến n.
+
+
+# làm tròn :
+
+-> import math
+
+-Round : Làm tròn bình thường.
+round(2.4) = 2
+round(2.6) = 3
+
+-Ceil : làm tròn lên.
+ceil(2.2) = 3
+ceil(2.6) = 3
+
+-Floor : Làm tròn xuống.
+floor(2.2) = 2
+floor(2.9) = 2
+
+round(a,2) : Làm tròn a tới hai số sau dấu chấm.
+
+# Range : 
+range(0, 10, 1) : Tạo một mảng các số cách đều bằng một từ 0 tới 9 (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
+range(0, 10) : Tạo một mảng các số cách đều MẶC ĐỊNH bằng một từ 0 tới 9 (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
+
+# Insert : 
+insert(vị trí, giá trị)
+
+#For - array:
+
+list1 = [1, 2, 3, 4, 5, 8, 7, 9, 0]
+vị trí : 0  1  2  3  4  5  6  7  8
+vị trí :-9 -8 -7 -6 -5 -4 -3 -2 -1
+
+print(list1[2:5:1]) : In ra các phần tử của list1 từ 2 đến 5 cách 1 (3, 4, 5).
+print(list1[-1:-5:-1] : In ra các phần tử của list1 từ -1 đến -5 cách -1 ngược lại của trên (0,9,7,8).
+print(list1[-1: :-1] : In các phần tử từ -1 đến đầu list1.
+
+list2 = []
+
+list1[i] : Giá trị phần tử mảng list1 ở vị trí thứ i.
+
+for i in list1:
+	Câu lệnh
+-> i là các phần tử trong mảng list1.
+
+for i in range()
+-> i là các phần tử trong mảng vừa tạo range.
+
+# tuple, set, Dictionary:
+	
+- Tuple : 
+tuple1 = (pt1, pt2, pt3)
+-> Tuple : Tạo một mảng không thể thay đổi.
+
+- Set : 
+set1 = {pt1, pt2, pt3}
+-> Set : Dùng khi tạo một mảng chỉ lưu trữ các phần tử không giống nhau, giống tập hợp tron toán học.  
+-> không có thứ tự và không trùng lặp.
+array1 = [1,3,3,2,2,5,4,2,6,7]
+set1 = set(array1)
+->set1 = {1,3,2,5,2,6,7}
+
+-Dictionary:
+Dic1 = {"TenTP1":TT1,"TenTP2":TT2,...}
+->Dictionary : Tự điển
+Hàm :
+Dic1.keys()   - >Trả về TenTP1, TenPT2,....
+Dic1.values() - >Trả về TT1, TT2,....
+Dic1.items()  - >Trả về TenTP1":TT1,"TenTP2":TT2,...
+
+
+# String :
+str1 = "Hello Srcks"
+
+split()           -> Lấy các từ trong str.
+split(*)
+
+lower()           -> In Thường.
+upper()           -> In hoa.
+
+isdigit()         -> Kiểm tra từ có phải số không.
+isalpha()         -> Kiểm tra từ có phải chữ không.
+
+replace("*","**") -> Thay thế * bằng **.
+
+title()           -> Viết hoa tất cả các chữ cái đầu của mỗi từ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

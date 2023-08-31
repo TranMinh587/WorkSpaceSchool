@@ -15,7 +15,7 @@ Hot : Nóng bỏng
 
 expression : Biểu thức
 Combination : Kết hợp
-Sensitive : PHân biệt
+Sensitive : Phân biệt
 
 
 

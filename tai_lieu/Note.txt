@@ -1,0 +1,10 @@
+dir | rename-item -NewName { $_.name.Replace(” (“,”–“) }
+
+Source: Cách Đổi Tên File Hàng Loạt Bằng Câu Lệnh Command Line | Thủ thuật máy tính
+
+
+
+=> Kiểm tra pin
+irm battery.mhqb365.com/win | iex
+
+powershell

@@ -1,0 +1,8 @@
+Nên có liên kết nối Phiếu xuất hàng với Hoá đơn bán.
+Bỏ bớt LK nối NV bán hàng với Khách hàng vì tạo ra chu trình.
+-Xem lại các bản số.
+Bỏ đi lớp Phiếu thống kê vì không cần thiết, xử lý dữ liệu là được.
+Phiếu xuất hàng phải do Thủ kho, không nói chung chung là NV quản lý.
+Tương tự cho Phiếu nhập hàng.
+Cần liên kết trực tiếp từ Phiếu xuất hàng đến Kho hàng. Bỏ bớt LK nối Thủ kho với Kho để tránh chu trình.
+NV và Lịch làm việc không cùng bản chất nên không thể có tổng quát hoá.
