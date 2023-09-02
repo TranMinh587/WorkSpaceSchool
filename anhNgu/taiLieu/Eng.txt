@@ -4,6 +4,12 @@ Based: Dựa trên mạng
 Each: Mỗi
 Propety 
 
+Abstraction (Tính trừu tượng)
+Encapsulation (Tính bao đóng)
+Inheritance (Tính kế thừa)
+Polymophirsm (Tính đa hình)
+
+
 Adorable : Đáng yêu
 Beautiful : Xin đẹp
 Cute : Dễ thương
